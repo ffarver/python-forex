@@ -1,1 +1,1 @@
-# python-forex
+# Forex/Stocks Python Project
